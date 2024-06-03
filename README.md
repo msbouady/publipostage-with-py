@@ -21,8 +21,8 @@ This project automates the generation of customized pharmacy contracts using a W
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pharmacy-contract-automation.git
-    cd pharmacy-contract-automation
+    git clone https://github.com/msbouady/publipostage-with-py.git
+    cd publipostage-with-py
     ```
 
 2. Install the required library:
